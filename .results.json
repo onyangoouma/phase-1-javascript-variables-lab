@@ -5,16 +5,16 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2022-06-19T10:05:16.507Z",
-    "end": "2022-06-19T10:05:16.896Z",
-    "duration": 389
+    "start": "2022-11-20T06:01:18.096Z",
+    "end": "2022-11-20T06:01:18.650Z",
+    "duration": 554
   },
   "tests": [
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
       "file": "/home/jackson/Desktop/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -23,7 +23,7 @@
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
       "file": "/home/jackson/Desktop/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -32,7 +32,7 @@
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
       "file": "/home/jackson/Desktop/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -41,7 +41,7 @@
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
       "file": "/home/jackson/Desktop/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -59,7 +59,7 @@
       "title": "is defined using let",
       "fullTitle": "index.js companyCeo is defined using let",
       "file": "/home/jackson/Desktop/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -72,7 +72,7 @@
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
       "file": "/home/jackson/Desktop/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -81,7 +81,7 @@
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
       "file": "/home/jackson/Desktop/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -90,7 +90,7 @@
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
       "file": "/home/jackson/Desktop/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -99,7 +99,7 @@
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
       "file": "/home/jackson/Desktop/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -117,7 +117,7 @@
       "title": "is defined using let",
       "fullTitle": "index.js companyCeo is defined using let",
       "file": "/home/jackson/Desktop/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
